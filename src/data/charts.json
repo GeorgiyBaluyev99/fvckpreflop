@@ -1,0 +1,1235 @@
+{
+  "scenarios": [
+    {
+      "id": "BTN",
+      "label": "BTN",
+      "stacks": [
+        {
+          "bb": "22-99",
+          "variants": {
+            "open": "BTN_open_22-99bb.png",
+            "vsshove": "BTN_open_22-99bb_vsshove.png",
+            "vs3bet3x": "BTN_open_22-99bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "18-21",
+          "variants": {
+            "open": "BTN_open_18-21bb.png",
+            "vsshove": "BTN_open_18-21bb_vsshove.png",
+            "vs3bet3x": "BTN_open_18-21bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "16-17",
+          "variants": {
+            "open": "BTN_open_16-17bb.png",
+            "vsshove": "BTN_open_16-17bb_vsshove.png",
+            "vs3bet3x": "BTN_open_16-17bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "15",
+          "variants": {
+            "open": "BTN_open_15bb.png",
+            "vsshove": "BTN_open_15bb_vsshove.png",
+            "vs3bet3x": "BTN_open_15bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "14",
+          "variants": {
+            "open": "BTN_open_14bb.png",
+            "vsshove": "BTN_open_14bb_vsshove.png",
+            "vs3bet3x": "BTN_open_14bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "13",
+          "variants": {
+            "open": "BTN_open_13bb.png",
+            "vsshove": "BTN_open_13bb_vsshove.png",
+            "vs3bet3x": "BTN_open_13bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "12",
+          "variants": {
+            "open": "BTN_open_12bb.png",
+            "vsshove": "BTN_open_12bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "BTN_open_11bb.png",
+            "vsshove": "BTN_open_11bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "BTN_open_10bb.png",
+            "vsshove": "BTN_open_10bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "9",
+          "variants": {
+            "open": "BTN_open_9bb.png",
+            "vsshove": "BTN_open_9bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "8",
+          "variants": {
+            "open": "BTN_open_8bb.png",
+            "vsshove": "BTN_open_8bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "7",
+          "variants": {
+            "open": "BTN_open_7bb.png",
+            "vsshove": "BTN_open_7bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "6",
+          "variants": {
+            "open": "BTN_open_6bb.png",
+            "vsshove": "BTN_open_6bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "5",
+          "variants": {
+            "open": "BTN_open_5bb.png",
+            "vsshove": "BTN_open_5bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "4",
+          "variants": {
+            "open": "BTN_open_4bb.png"
+          }
+        },
+        {
+          "bb": "3",
+          "variants": {
+            "open": "BTN_open_3bb.png"
+          }
+        },
+        {
+          "bb": "1-2",
+          "variants": {
+            "open": "BTN_open_1-2bb.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBB",
+      "label": "SBB",
+      "stacks": [
+        {
+          "bb": "14-99",
+          "variants": {
+            "open": "SBB_14-99bb.png",
+            "vsshove": "SBB_14-99bb_vsshove.png",
+            "vs3bet2.5x": "SBB_14-99bb_vs3bet2.5x.png"
+          }
+        },
+        {
+          "bb": "13",
+          "variants": {
+            "open": "SBB_13bb.png",
+            "vsshove": "SBB_13bb_vsshove.png",
+            "vs3bet2.5x": "SBB_13bb_vs3bet2.5x.png"
+          }
+        },
+        {
+          "bb": "12",
+          "variants": {
+            "open": "SBB_12bb.png",
+            "vsshove": "SBB_12bb_vsshove.png",
+            "vs3bet2.5x": "SBB_12bb_vs3bet2.5x.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "SBB_11bb.png",
+            "vsshove": "SBB_11bb_vsshove.png",
+            "vs3bet2.5x": "SBB_11bb_vs3bet2.5x.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "SBB_10bb.png",
+            "vsshove": "SBB_10bb_vsshove.png",
+            "vs3bet2.5x": "SBB_10bb_vs3bet2.5x.png"
+          }
+        },
+        {
+          "bb": "8-9",
+          "variants": {
+            "open": "SBB_8-9bb.png",
+            "vsshove": "SBB_8-9bb_vsshove.png",
+            "vs3bet2.5x": "SBB_8-9bb_vs3bet2.5x.png"
+          }
+        },
+        {
+          "bb": "6-7",
+          "variants": {
+            "open": "SBB_6-7bb.png",
+            "vsshove": "SBB_6-7bb_vsshove.png",
+            "vs3bet2.5x": "SBB_6-7bb_vs3bet2.5x.png"
+          }
+        },
+        {
+          "bb": "4-5",
+          "variants": {
+            "open": "SBB_4-5bb.png",
+            "vsshove": "SBB_4-5bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "1-3",
+          "variants": {
+            "open": "SBB_1-3bb.png",
+            "vsshove": "SBB_1-3bb_vsshove.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBvsBTNlimp",
+      "label": "SB vs BTN limp",
+      "stacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "SBvsBTNlimp_15-99bb.png",
+            "vsshove": "SBvsBTNlimp_15-99bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "14",
+          "variants": {
+            "open": "SBvsBTNlimp_14bb.png",
+            "vsshove": "SBvsBTNlimp_14bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "13",
+          "variants": {
+            "open": "SBvsBTNlimp_13bb.png",
+            "vsshove": "SBvsBTNlimp_13bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "12",
+          "variants": {
+            "open": "SBvsBTNlimp_12bb.png",
+            "vsshove": "SBvsBTNlimp_12bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "SBvsBTNlimp_11bb.png",
+            "vsshove": "SBvsBTNlimp_11bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "SBvsBTNlimp_10bb.png",
+            "vsshove": "SBvsBTNlimp_10bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "9",
+          "variants": {
+            "open": "SBvsBTNlimp_9bb.png",
+            "vsshove": "SBvsBTNlimp_9bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "8",
+          "variants": {
+            "open": "SBvsBTNlimp_8bb.png",
+            "vsshove": "SBvsBTNlimp_8bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "7",
+          "variants": {
+            "open": "SBvsBTNlimp_7bb.png",
+            "vsshove": "SBvsBTNlimp_7bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "6",
+          "variants": {
+            "open": "SBvsBTNlimp_6bb.png",
+            "vsshove": "SBvsBTNlimp_6bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "5",
+          "variants": {
+            "open": "SBvsBTNlimp_5bb.png",
+            "vsshove": "SBvsBTNlimp_5bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "4",
+          "variants": {
+            "open": "SBvsBTNlimp_4bb.png",
+            "vsshove": "SBvsBTNlimp_4bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "3",
+          "variants": {
+            "open": "SBvsBTNlimp_3bb.png"
+          }
+        },
+        {
+          "bb": "2",
+          "variants": {
+            "open": "SBvsBTNlimp_2bb.png"
+          }
+        },
+        {
+          "bb": "1",
+          "variants": {
+            "open": "SBvsBTNlimp_1bb.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBvsBTNmr",
+      "label": "SB vs BTN mr",
+      "stacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "SBvsBTNmr_15-99bb.png"
+          }
+        },
+        {
+          "bb": "14",
+          "variants": {
+            "open": "SBvsBTNmr_14bb.png"
+          }
+        },
+        {
+          "bb": "13",
+          "variants": {
+            "open": "SBvsBTNmr_13bb.png"
+          }
+        },
+        {
+          "bb": "12",
+          "variants": {
+            "open": "SBvsBTNmr_12bb.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "SBvsBTNmr_11bb.png"
+          }
+        },
+        {
+          "bb": "1-10",
+          "variants": {
+            "open": "SBvsBTNmr_1-10bb.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBvsBTNOS",
+      "label": "SB vs BTN OS",
+      "stacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "SBvsBTNOS_15-99bb.png"
+          }
+        },
+        {
+          "bb": "14",
+          "variants": {
+            "open": "SBvsBTNOS_14bb.png"
+          }
+        },
+        {
+          "bb": "13",
+          "variants": {
+            "open": "SBvsBTNOS_13bb.png"
+          }
+        },
+        {
+          "bb": "12",
+          "variants": {
+            "open": "SBvsBTNOS_12bb.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "SBvsBTNOS_11bb.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "SBvsBTNOS_10bb.png"
+          }
+        },
+        {
+          "bb": "9",
+          "variants": {
+            "open": "SBvsBTNOS_9bb.png"
+          }
+        },
+        {
+          "bb": "8",
+          "variants": {
+            "open": "SBvsBTNOS_8bb.png"
+          }
+        },
+        {
+          "bb": "7",
+          "variants": {
+            "open": "SBvsBTNOS_7bb.png"
+          }
+        },
+        {
+          "bb": "6",
+          "variants": {
+            "open": "SBvsBTNOS_6bb.png"
+          }
+        },
+        {
+          "bb": "5",
+          "variants": {
+            "open": "SBvsBTNOS_5bb.png"
+          }
+        },
+        {
+          "bb": "4",
+          "variants": {
+            "open": "SBvsBTNOS_4bb.png"
+          }
+        },
+        {
+          "bb": "3",
+          "variants": {
+            "open": "SBvsBTNOS_3bb.png"
+          }
+        },
+        {
+          "bb": "2",
+          "variants": {
+            "open": "SBvsBTNOS_2bb.png"
+          }
+        },
+        {
+          "bb": "1",
+          "variants": {
+            "open": "SBvsBTNOS_1bb.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BBvsSBlimp",
+      "label": "BB vs SB limp",
+      "stacks": [
+        {
+          "bb": "14-99",
+          "variants": {
+            "open": "BBvsSBlimp_14-99bb.png",
+            "vsshove": "BBvsSBlimp_14-99bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "12-13",
+          "variants": {
+            "open": "BBvsSBlimp_12-13bb.png",
+            "vsshove": "BBvsSBlimp_12-13bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "10-11",
+          "variants": {
+            "open": "BBvsSBlimp_10-11bb.png",
+            "vsshove": "BBvsSBlimp_10-11bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "8-9",
+          "variants": {
+            "open": "BBvsSBlimp_8-9bb.png",
+            "vsshove": "BBvsSBlimp_8-9bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "6-7",
+          "variants": {
+            "open": "BBvsSBlimp_6-7bb.png",
+            "vsshove": "BBvsSBlimp_6-7bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "1-5",
+          "variants": {
+            "open": "BBvsSBlimp_1-5bb.png",
+            "vsshove": "BBvsSBlimp_1-5bb_vsshove.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BBvsSBmr",
+      "label": "BB vs SB mr",
+      "stacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "BBvsSBmr_15-99bb.png",
+            "vsshove": "BBvsSBmr_15-99bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "14",
+          "variants": {
+            "open": "BBvsSBmr_14bb.png",
+            "vsshove": "BBvsSBmr_14bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "13",
+          "variants": {
+            "open": "BBvsSBmr_13bb.png",
+            "vsshove": "BBvsSBmr_13bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "12",
+          "variants": {
+            "open": "BBvsSBmr_12bb.png",
+            "vsshove": "BBvsSBmr_12bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "BBvsSBmr_11bb.png",
+            "vsshove": "BBvsSBmr_11bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "BBvsSBmr_10bb.png",
+            "vsshove": "BBvsSBmr_10bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "1-9",
+          "variants": {
+            "open": "BBvsSBmr_1-9bb.png",
+            "vsshove": "BBvsSBmr_1-9bb_vsshove.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BBvsSBOS",
+      "label": "BB vs SB OS",
+      "stacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "BBvsSBOS_15-99bb.png"
+          }
+        },
+        {
+          "bb": "14",
+          "variants": {
+            "open": "BBvsSBOS_14bb.png"
+          }
+        },
+        {
+          "bb": "13",
+          "variants": {
+            "open": "BBvsSBOS_13bb.png"
+          }
+        },
+        {
+          "bb": "12",
+          "variants": {
+            "open": "BBvsSBOS_12bb.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "BBvsSBOS_11bb.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "BBvsSBOS_10bb.png"
+          }
+        },
+        {
+          "bb": "9",
+          "variants": {
+            "open": "BBvsSBOS_9bb.png"
+          }
+        },
+        {
+          "bb": "8",
+          "variants": {
+            "open": "BBvsSBOS_8bb.png"
+          }
+        },
+        {
+          "bb": "7",
+          "variants": {
+            "open": "BBvsSBOS_7bb.png"
+          }
+        },
+        {
+          "bb": "6",
+          "variants": {
+            "open": "BBvsSBOS_6bb.png"
+          }
+        },
+        {
+          "bb": "5",
+          "variants": {
+            "open": "BBvsSBOS_5bb.png"
+          }
+        },
+        {
+          "bb": "4",
+          "variants": {
+            "open": "BBvsSBOS_4bb.png"
+          }
+        },
+        {
+          "bb": "3",
+          "variants": {
+            "open": "BBvsSBOS_3bb.png"
+          }
+        },
+        {
+          "bb": "1-2",
+          "variants": {
+            "open": "BBvsSBOS_1-2bb.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BBvsBTNlimp",
+      "label": "BB vs BTN limp",
+      "stacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "BBvsBTNlimp_15-99bb.png",
+            "vsshove": "BBvsBTNlimp_15-99bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "13-14",
+          "variants": {
+            "open": "BBvsBTNlimp_13-14bb.png",
+            "vsshove": "BBvsBTNlimp_13-14bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "11-12",
+          "variants": {
+            "open": "BBvsBTNlimp_11-12bb.png",
+            "vsshove": "BBvsBTNlimp_11-12bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "BBvsBTNlimp_10bb.png",
+            "vsshove": "BBvsBTNlimp_10bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "9",
+          "variants": {
+            "open": "BBvsBTNlimp_9bb.png",
+            "vsshove": "BBvsBTNlimp_9bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "8",
+          "variants": {
+            "open": "BBvsBTNlimp_8bb.png",
+            "vsshove": "BBvsBTNlimp_8bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "7",
+          "variants": {
+            "open": "BBvsBTNlimp_7bb.png",
+            "vsshove": "BBvsBTNlimp_7bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "1-6",
+          "variants": {
+            "open": "BBvsBTNlimp_1-6bb.png",
+            "vsshove": "BBvsBTNlimp_1-6bb_vsshove.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BBvsBTNmr",
+      "label": "BB vs BTN mr",
+      "stacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "BBvsBTNmr_15-99bb.png"
+          }
+        },
+        {
+          "bb": "14",
+          "variants": {
+            "open": "BBvsBTNmr_14bb.png"
+          }
+        },
+        {
+          "bb": "13",
+          "variants": {
+            "open": "BBvsBTNmr_13bb.png"
+          }
+        },
+        {
+          "bb": "12",
+          "variants": {
+            "open": "BBvsBTNmr_12bb.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "BBvsBTNmr_11bb.png"
+          }
+        },
+        {
+          "bb": "1-10",
+          "variants": {
+            "open": "BBvsBTNmr_1-10bb.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BBvsBTNOS",
+      "label": "BB vs BTN OS",
+      "stacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "BBvsBTNOS_15-99bb.png"
+          }
+        },
+        {
+          "bb": "14",
+          "variants": {
+            "open": "BBvsBTNOS_14bb.png"
+          }
+        },
+        {
+          "bb": "13",
+          "variants": {
+            "open": "BBvsBTNOS_13bb.png"
+          }
+        },
+        {
+          "bb": "12",
+          "variants": {
+            "open": "BBvsBTNOS_12bb.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "BBvsBTNOS_11bb.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "BBvsBTNOS_10bb.png"
+          }
+        },
+        {
+          "bb": "9",
+          "variants": {
+            "open": "BBvsBTNOS_9bb.png"
+          }
+        },
+        {
+          "bb": "8",
+          "variants": {
+            "open": "BBvsBTNOS_8bb.png"
+          }
+        },
+        {
+          "bb": "7",
+          "variants": {
+            "open": "BBvsBTNOS_7bb.png"
+          }
+        },
+        {
+          "bb": "6",
+          "variants": {
+            "open": "BBvsBTNOS_6bb.png"
+          }
+        },
+        {
+          "bb": "5",
+          "variants": {
+            "open": "BBvsBTNOS_5bb.png"
+          }
+        },
+        {
+          "bb": "4",
+          "variants": {
+            "open": "BBvsBTNOS_4bb.png"
+          }
+        },
+        {
+          "bb": "3",
+          "variants": {
+            "open": "BBvsBTNOS_3bb.png"
+          }
+        },
+        {
+          "bb": "1-2",
+          "variants": {
+            "open": "BBvsBTNOS_1-2bb.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BBvsSQZlimp",
+      "label": "BB vs SQZ limp",
+      "universal": true,
+      "variants": {
+        "open": "BBvsSQZlimp.png"
+      }
+    },
+    {
+      "id": "BBvsSQZmr",
+      "label": "BB vs SQZ mr",
+      "universal": true,
+      "variants": {
+        "open": "BBvsSQZmr.png"
+      }
+    },
+    {
+      "id": "HUSB",
+      "label": "HUSB",
+      "stacks": [
+        {
+          "bb": "14-99",
+          "variants": {
+            "open": "HUSB_14-99bb.png",
+            "vsshove": "HUSB_14-99bb_vsshove.png",
+            "vs3bet3x": "HUSB_14-99bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "12-13",
+          "variants": {
+            "open": "HUSB_12-13bb.png",
+            "vsshove": "HUSB_12-13bb_vsshove.png",
+            "vs3bet3x": "HUSB_12-13bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "HUSB_11bb.png",
+            "vsshove": "HUSB_11bb_vsshove.png",
+            "vs3bet3x": "HUSB_11bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "HUSB_10bb.png",
+            "vsshove": "HUSB_10bb_vsshove.png",
+            "vs3bet3x": "HUSB_10bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "9",
+          "variants": {
+            "open": "HUSB_9bb.png",
+            "vsshove": "HUSB_9bb_vsshove.png",
+            "vs3bet3x": "HUSB_9bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "8",
+          "variants": {
+            "open": "HUSB_8bb.png",
+            "vsshove": "HUSB_8bb_vsshove.png",
+            "vs3bet3x": "HUSB_8bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "7",
+          "variants": {
+            "open": "HUSB_7bb.png",
+            "vsshove": "HUSB_7bb_vsshove.png",
+            "vs3bet3x": "HUSB_7bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "6",
+          "variants": {
+            "open": "HUSB_6bb.png",
+            "vsshove": "HUSB_6bb_vsshove.png",
+            "vs3bet3x": "HUSB_6bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "5",
+          "variants": {
+            "open": "HUSB_5bb.png",
+            "vsshove": "HUSB_5bb_vsshove.png",
+            "vs3bet3x": "HUSB_5bb_vs3bet3x.png"
+          }
+        },
+        {
+          "bb": "4",
+          "variants": {
+            "open": "HUSB_4bb.png",
+            "vsshove": "HUSB_4bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "3",
+          "variants": {
+            "open": "HUSB_3bb.png"
+          }
+        },
+        {
+          "bb": "1-2",
+          "variants": {
+            "open": "HUSB_1-2bb.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HUBBvsLimp",
+      "label": "HUBB vs Limp",
+      "stacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "HUBBvsLimp_15-99bb.png",
+            "vsshove": "HUBBvsLimp_15-99bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "13-14",
+          "variants": {
+            "open": "HUBBvsLimp_13-14bb.png",
+            "vsshove": "HUBBvsLimp_13-14bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "11-12",
+          "variants": {
+            "open": "HUBBvsLimp_11-12bb.png",
+            "vsshove": "HUBBvsLimp_11-12bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "HUBBvsLimp_10bb.png",
+            "vsshove": "HUBBvsLimp_10bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "9",
+          "variants": {
+            "open": "HUBBvsLimp_9bb.png",
+            "vsshove": "HUBBvsLimp_9bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "8",
+          "variants": {
+            "open": "HUBBvsLimp_8bb.png",
+            "vsshove": "HUBBvsLimp_8bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "7",
+          "variants": {
+            "open": "HUBBvsLimp_7bb.png",
+            "vsshove": "HUBBvsLimp_7bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "6",
+          "variants": {
+            "open": "HUBBvsLimp_6bb.png",
+            "vsshove": "HUBBvsLimp_6bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "5",
+          "variants": {
+            "open": "HUBBvsLimp_5bb.png",
+            "vsshove": "HUBBvsLimp_5bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "4",
+          "variants": {
+            "open": "HUBBvsLimp_4bb.png",
+            "vsshove": "HUBBvsLimp_4bb_vsshove.png"
+          }
+        },
+        {
+          "bb": "1-3",
+          "variants": {
+            "open": "HUBBvsLimp_1-3bb.png",
+            "vsshove": "HUBBvsLimp_1-3bb_vsshove.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HUBBvsMR",
+      "label": "HUBB vs MR",
+      "stacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "HUBBvsMR_15-99bb.png"
+          }
+        },
+        {
+          "bb": "13-14",
+          "variants": {
+            "open": "HUBBvsMR_13-14bb.png"
+          }
+        },
+        {
+          "bb": "10-12",
+          "variants": {
+            "open": "HUBBvsMR_10-12bb.png"
+          }
+        },
+        {
+          "bb": "8-9",
+          "variants": {
+            "open": "HUBBvsMR_8-9bb.png"
+          }
+        },
+        {
+          "bb": "6-7",
+          "variants": {
+            "open": "HUBBvsMR_6-7bb.png"
+          }
+        },
+        {
+          "bb": "4-5",
+          "variants": {
+            "open": "HUBBvsMR_4-5bb.png"
+          }
+        },
+        {
+          "bb": "3",
+          "variants": {
+            "open": "HUBBvsMR_3bb.png"
+          }
+        },
+        {
+          "bb": "1-2",
+          "variants": {
+            "open": "HUBBvsMR_1-2bb.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HUBBvs3x",
+      "label": "HUBB vs 3x",
+      "stacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "HUBBvs3x_15-99bb.png"
+          }
+        },
+        {
+          "bb": "13-14",
+          "variants": {
+            "open": "HUBBvs3x_13-14bb.png"
+          }
+        },
+        {
+          "bb": "10-12",
+          "variants": {
+            "open": "HUBBvs3x_10-12bb.png"
+          }
+        },
+        {
+          "bb": "8-9",
+          "variants": {
+            "open": "HUBBvs3x_8-9bb.png"
+          }
+        },
+        {
+          "bb": "6-7",
+          "variants": {
+            "open": "HUBBvs3x_6-7bb.png"
+          }
+        },
+        {
+          "bb": "4-5",
+          "variants": {
+            "open": "HUBBvs3x_4-5bb.png"
+          }
+        },
+        {
+          "bb": "3",
+          "variants": {
+            "open": "HUBBvs3x_3bb.png"
+          }
+        },
+        {
+          "bb": "1-2",
+          "variants": {
+            "open": "HUBBvs3x_1-2bb.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HUBBvsOS",
+      "label": "HUBB vs OS",
+      "stacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "HUBBvsOS_15-99bb.png"
+          }
+        },
+        {
+          "bb": "14",
+          "variants": {
+            "open": "HUBBvsOS_14bb.png"
+          }
+        },
+        {
+          "bb": "13",
+          "variants": {
+            "open": "HUBBvsOS_13bb.png"
+          }
+        },
+        {
+          "bb": "12",
+          "variants": {
+            "open": "HUBBvsOS_12bb.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "HUBBvsOS_11bb.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "HUBBvsOS_10bb.png"
+          }
+        },
+        {
+          "bb": "9",
+          "variants": {
+            "open": "HUBBvsOS_9bb.png"
+          }
+        },
+        {
+          "bb": "8",
+          "variants": {
+            "open": "HUBBvsOS_8bb.png"
+          }
+        },
+        {
+          "bb": "7",
+          "variants": {
+            "open": "HUBBvsOS_7bb.png"
+          }
+        },
+        {
+          "bb": "6",
+          "variants": {
+            "open": "HUBBvsOS_6bb.png"
+          }
+        },
+        {
+          "bb": "5",
+          "variants": {
+            "open": "HUBBvsOS_5bb.png"
+          }
+        },
+        {
+          "bb": "4",
+          "variants": {
+            "open": "HUBBvsOS_4bb.png"
+          }
+        },
+        {
+          "bb": "3",
+          "variants": {
+            "open": "HUBBvsOS_3bb.png"
+          }
+        },
+        {
+          "bb": "1-2",
+          "variants": {
+            "open": "HUBBvsOS_1-2bb.png"
+          }
+        }
+      ]
+    }
+  ]
+}
