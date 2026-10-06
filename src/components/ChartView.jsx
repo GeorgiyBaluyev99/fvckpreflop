@@ -1,4 +1,4 @@
-import { orderedVariantKeys, VARIANT_LABELS } from '../data/flattenEntries';
+import { orderedVariantKeys, formatVariantLabel } from '../data/flattenEntries';
 
 // Fullscreen chart display. Shows the image for the currently active
 // variant plus small context (scenario label, stack, which variant, and
@@ -22,7 +22,7 @@ export default function ChartView({ entry, variant }) {
                 key={key}
                 className={key === activeVariant ? 'variant-pill active' : 'variant-pill'}
               >
-                {VARIANT_LABELS[key] || key}
+                {formatVariantLabel(key)}
               </span>
             ))}
           </div>

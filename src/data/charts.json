@@ -948,6 +948,186 @@
             "open": "HUSB_1-2bb.png"
           }
         }
+      ],
+      "regStacks": [
+        {
+          "bb": "23-100",
+          "variants": {
+            "open": "HUSB_reg_23-100bb_open.png",
+            "vs-bb-allin": "HUSB_reg_23-100bb_vs-bb-allin.png",
+            "vs-bb-iso-3bb": "HUSB_reg_23-100bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-6bb": "HUSB_reg_23-100bb_vs-bb-iso-6bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_23-100bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "22",
+          "variants": {
+            "open": "HUSB_reg_22bb_open.png",
+            "vs-bb-allin": "HUSB_reg_22bb_vs-bb-allin.png",
+            "vs-bb-iso-3bb": "HUSB_reg_22bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-6bb": "HUSB_reg_22bb_vs-bb-iso-6bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_22bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "21",
+          "variants": {
+            "open": "HUSB_reg_21bb_open.png",
+            "vs-bb-allin": "HUSB_reg_21bb_vs-bb-allin.png",
+            "vs-bb-iso-3bb": "HUSB_reg_21bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-6bb": "HUSB_reg_21bb_vs-bb-iso-6bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_21bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "20",
+          "variants": {
+            "open": "HUSB_reg_20bb_open.png",
+            "vs-bb-allin": "HUSB_reg_20bb_vs-bb-allin.png",
+            "vs-bb-iso-3bb": "HUSB_reg_20bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-6bb": "HUSB_reg_20bb_vs-bb-iso-6bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_20bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "19",
+          "variants": {
+            "open": "HUSB_reg_19bb_open.png",
+            "vs-bb-allin": "HUSB_reg_19bb_vs-bb-allin.png",
+            "vs-bb-iso-3bb": "HUSB_reg_19bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-6bb": "HUSB_reg_19bb_vs-bb-iso-6bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_19bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "18",
+          "variants": {
+            "open": "HUSB_reg_18bb_open.png",
+            "vs-bb-allin": "HUSB_reg_18bb_vs-bb-allin.png",
+            "vs-bb-iso-3bb": "HUSB_reg_18bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-6bb": "HUSB_reg_18bb_vs-bb-iso-6bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_18bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "17",
+          "variants": {
+            "open": "HUSB_reg_17bb_open.png",
+            "vs-bb-allin": "HUSB_reg_17bb_vs-bb-allin.png",
+            "vs-bb-iso-3bb": "HUSB_reg_17bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-6bb": "HUSB_reg_17bb_vs-bb-iso-6bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_17bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "16",
+          "variants": {
+            "open": "HUSB_reg_16bb_open.png",
+            "vs-bb-allin": "HUSB_reg_16bb_vs-bb-allin.png",
+            "vs-bb-iso-3bb": "HUSB_reg_16bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-6bb": "HUSB_reg_16bb_vs-bb-iso-6bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_16bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "15",
+          "variants": {
+            "open": "HUSB_reg_15bb_open.png",
+            "vs-bb-allin": "HUSB_reg_15bb_vs-bb-allin.png",
+            "vs-bb-iso-3bb": "HUSB_reg_15bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-6bb": "HUSB_reg_15bb_vs-bb-iso-6bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_15bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "14",
+          "variants": {
+            "open": "HUSB_reg_14bb_open.png",
+            "vs-bb-allin": "HUSB_reg_14bb_vs-bb-allin.png",
+            "vs-bb-iso-3bb": "HUSB_reg_14bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-4.5bb": "HUSB_reg_14bb_vs-bb-iso-4.5bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_14bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "13",
+          "variants": {
+            "open": "HUSB_reg_13bb_open.png",
+            "vs-bb-allin": "HUSB_reg_13bb_vs-bb-allin.png",
+            "vs-bb-iso-3bb": "HUSB_reg_13bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-4.5bb": "HUSB_reg_13bb_vs-bb-iso-4.5bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_13bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "12",
+          "variants": {
+            "open": "HUSB_reg_12bb_open.png",
+            "vs-bb-iso-3bb": "HUSB_reg_12bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-4.5bb": "HUSB_reg_12bb_vs-bb-iso-4.5bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_12bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "HUSB_reg_11bb_open.png",
+            "vs-bb-iso-2.5bb": "HUSB_reg_11bb_vs-bb-iso-2.5bb.png",
+            "vs-bb-iso-4bb": "HUSB_reg_11bb_vs-bb-iso-4bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_11bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "HUSB_reg_10bb_open.png",
+            "vs-bb-iso-2.5bb": "HUSB_reg_10bb_vs-bb-iso-2.5bb.png",
+            "vs-bb-iso-4bb": "HUSB_reg_10bb_vs-bb-iso-4bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_10bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "9",
+          "variants": {
+            "open": "HUSB_reg_9bb_open.png",
+            "vs-bb-iso-2.5bb": "HUSB_reg_9bb_vs-bb-iso-2.5bb.png",
+            "vs-bb-iso-3.5bb": "HUSB_reg_9bb_vs-bb-iso-3.5bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_9bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "8",
+          "variants": {
+            "open": "HUSB_reg_8bb_open.png",
+            "vs-bb-iso-2.5bb": "HUSB_reg_8bb_vs-bb-iso-2.5bb.png",
+            "vs-bb-iso-3.5bb": "HUSB_reg_8bb_vs-bb-iso-3.5bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_8bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "7",
+          "variants": {
+            "open": "HUSB_reg_7bb_open.png",
+            "vs-bb-iso-2.5bb": "HUSB_reg_7bb_vs-bb-iso-2.5bb.png",
+            "vs-bb-iso-3.5bb": "HUSB_reg_7bb_vs-bb-iso-3.5bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_7bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "6-6.5",
+          "variants": {
+            "open": "HUSB_reg_6-6.5bb_open.png",
+            "vs-bb-iso-3bb": "HUSB_reg_6-6.5bb_vs-bb-iso-3bb.png",
+            "vs-bb-iso-allin": "HUSB_reg_6-6.5bb_vs-bb-iso-allin.png"
+          }
+        },
+        {
+          "bb": "5.5-5.9",
+          "variants": {
+            "open": "HUSB_reg_5.5-5.9bb_open.png"
+          }
+        }
       ]
     },
     {

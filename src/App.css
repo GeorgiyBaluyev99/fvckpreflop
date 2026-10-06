@@ -23,6 +23,38 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
+  border: 4px solid transparent;
+  transition: border-color 0.15s ease;
+}
+
+.app-root.population-fish {
+  border-color: #1f6b45;
+}
+
+.app-root.population-reg {
+  border-color: #8b2b2b;
+}
+
+/* ---------- Population bar ---------- */
+/* Full-width, high-contrast - meant to be read peripherally, no squinting. */
+
+.population-bar {
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.population-fish .population-bar {
+  background: #1f6b45;
+  color: #eafff2;
+}
+
+.population-reg .population-bar {
+  background: #8b2b2b;
+  color: #ffecec;
 }
 
 /* ---------- Command palette ---------- */
@@ -224,3 +256,5 @@ body {
   color: #6b7684;
   border-top: 1px solid #1d2127;
 }
+
+

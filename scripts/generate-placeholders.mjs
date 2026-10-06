@@ -2,10 +2,18 @@
 // listed in src/data/charts.json, written into public/charts/.
 // Real chart images can later just overwrite these files (same filenames),
 // no code changes needed.
+//
+// Skips any filename that already exists on disk - once a real image has
+// replaced a placeholder (or a new one has been added), re-running this
+// script to pick up newly-added scenarios/stacks must never clobber it.
+// Pass --force to regenerate everything anyway (e.g. to refresh the look
+// of the placeholders themselves).
 
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+
+const force = process.argv.includes('--force');
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
@@ -68,7 +76,31 @@ const VARIANT_LABELS = {
   vs3bet3x: 'VS 3BET 3x',
 };
 
-let count = 0;
+// Reg-chart variant keys are hyphenated slugs with the literal raise size
+// baked in (e.g. "vs-bb-iso-4.5bb") since that size varies bucket to
+// bucket - mirrors formatVariantLabel() in src/data/flattenEntries.js.
+function variantBadge(variant) {
+  if (variant === 'open') return null;
+  if (VARIANT_LABELS[variant]) return VARIANT_LABELS[variant];
+  return variant
+    .split('-')
+    .map((part) => (part === 'bb' ? 'BB' : part === 'allin' ? 'ALL-IN' : part))
+    .join(' ')
+    .toUpperCase();
+}
+
+let written = 0;
+let skipped = 0;
+function maybeWrite(filename, svg) {
+  const dest = path.join(outDir, filename);
+  if (!force && existsSync(dest)) {
+    skipped++;
+    return;
+  }
+  writeFileSync(dest, svg, 'utf-8');
+  written++;
+}
+
 for (const scenario of scenarios) {
   if (scenario.universal) {
     for (const [variant, filename] of Object.entries(scenario.variants)) {
@@ -77,22 +109,30 @@ for (const scenario of scenarios) {
         subtitle: `PLACEHOLDER CHART · scenario: ${scenario.id} · universal · ${variant}`,
         badge: variant === 'open' ? null : VARIANT_LABELS[variant] || variant.toUpperCase(),
       });
-      writeFileSync(path.join(outDir, filename), svg, 'utf-8');
-      count++;
+      maybeWrite(filename, svg);
     }
     continue;
   }
-  for (const stack of scenario.stacks) {
+  for (const stack of scenario.stacks || []) {
     for (const [variant, filename] of Object.entries(stack.variants)) {
       const svg = buildGridSvg({
         title: `${scenario.label} — ${stack.bb}bb`,
         subtitle: `PLACEHOLDER CHART · scenario: ${scenario.id} · ${stack.bb}bb · ${variant}`,
-        badge: variant === 'open' ? null : VARIANT_LABELS[variant] || variant.toUpperCase(),
+        badge: variantBadge(variant),
       });
-      writeFileSync(path.join(outDir, filename), svg, 'utf-8');
-      count++;
+      maybeWrite(filename, svg);
+    }
+  }
+  for (const stack of scenario.regStacks || []) {
+    for (const [variant, filename] of Object.entries(stack.variants)) {
+      const svg = buildGridSvg({
+        title: `${scenario.label} — ${stack.bb}bb (REG)`,
+        subtitle: `PLACEHOLDER CHART · scenario: ${scenario.id} · reg · ${stack.bb}bb · ${variant}`,
+        badge: variantBadge(variant) || 'REG',
+      });
+      maybeWrite(filename, svg);
     }
   }
 }
 
-console.log(`Generated ${count} placeholder chart images into public/charts/`);
+console.log(`Generated ${written} placeholder chart images into public/charts/ (skipped ${skipped} already-existing files${force ? '' : ' - use --force to overwrite'})`);
