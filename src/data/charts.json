@@ -202,6 +202,103 @@
             "vsshove": "SBB_1-3bb_vsshove.png"
           }
         }
+      ],
+      "regStacks": [
+        {
+          "bb": "15-99",
+          "variants": {
+            "open": "SBB_reg_15-99bb_open.png",
+            "vs-allin": "SBB_reg_15-99bb_vs-allin.png",
+            "vs-3bet": "SBB_reg_15-99bb_vs-3bet.png"
+          }
+        },
+        {
+          "bb": "14",
+          "variants": {
+            "open": "SBB_reg_14bb_open.png",
+            "vs-allin": "SBB_reg_14bb_vs-allin.png",
+            "vs-3bet": "SBB_reg_14bb_vs-3bet.png"
+          }
+        },
+        {
+          "bb": "13",
+          "variants": {
+            "open": "SBB_reg_13bb_open.png",
+            "vs-allin": "SBB_reg_13bb_vs-allin.png",
+            "vs-3bet": "SBB_reg_13bb_vs-3bet.png"
+          }
+        },
+        {
+          "bb": "12",
+          "variants": {
+            "open": "SBB_reg_12bb_open.png",
+            "vs-allin": "SBB_reg_12bb_vs-allin.png"
+          }
+        },
+        {
+          "bb": "11",
+          "variants": {
+            "open": "SBB_reg_11bb_open.png",
+            "vs-allin": "SBB_reg_11bb_vs-allin.png"
+          }
+        },
+        {
+          "bb": "10",
+          "variants": {
+            "open": "SBB_reg_10bb_open.png",
+            "vs-allin": "SBB_reg_10bb_vs-allin.png"
+          }
+        },
+        {
+          "bb": "9",
+          "variants": {
+            "open": "SBB_reg_9bb_open.png",
+            "vs-allin": "SBB_reg_9bb_vs-allin.png"
+          }
+        },
+        {
+          "bb": "8",
+          "variants": {
+            "open": "SBB_reg_8bb_open.png",
+            "vs-allin": "SBB_reg_8bb_vs-allin.png"
+          }
+        },
+        {
+          "bb": "7",
+          "variants": {
+            "open": "SBB_reg_7bb_open.png"
+          }
+        },
+        {
+          "bb": "6",
+          "variants": {
+            "open": "SBB_reg_6bb_open.png"
+          }
+        },
+        {
+          "bb": "5",
+          "variants": {
+            "open": "SBB_reg_5bb_open.png"
+          }
+        },
+        {
+          "bb": "4",
+          "variants": {
+            "open": "SBB_reg_4bb_open.png"
+          }
+        },
+        {
+          "bb": "3",
+          "variants": {
+            "open": "SBB_reg_3bb_open.png"
+          }
+        },
+        {
+          "bb": "2",
+          "variants": {
+            "open": "SBB_reg_2bb_open.png"
+          }
+        }
       ]
     },
     {
