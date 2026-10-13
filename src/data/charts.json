@@ -1362,6 +1362,63 @@
             "open": "HUBBvsMR_1-2bb.png"
           }
         }
+      ],
+      "regStacks": [
+        {
+          "bb": "20-99",
+          "variants": {
+            "open": "HUBBvsMR_reg_20-99bb_open.png",
+            "vs-allin": "HUBBvsMR_reg_20-99bb_vs-allin.png"
+          }
+        },
+        {
+          "bb": "19",
+          "variants": {
+            "open": "HUBBvsMR_reg_19bb_open.png",
+            "vs-allin": "HUBBvsMR_reg_19bb_vs-allin.png"
+          }
+        },
+        {
+          "bb": "18",
+          "variants": {
+            "open": "HUBBvsMR_reg_18bb_open.png",
+            "vs-allin": "HUBBvsMR_reg_18bb_vs-allin.png"
+          }
+        },
+        {
+          "bb": "17",
+          "variants": {
+            "open": "HUBBvsMR_reg_17bb_open.png",
+            "vs-allin": "HUBBvsMR_reg_17bb_vs-allin.png"
+          }
+        },
+        {
+          "bb": "16",
+          "variants": {
+            "open": "HUBBvsMR_reg_16bb_open.png",
+            "vs-allin": "HUBBvsMR_reg_16bb_vs-allin.png"
+          }
+        },
+        {
+          "bb": "15",
+          "variants": {
+            "open": "HUBBvsMR_reg_15bb_open.png",
+            "vs-allin": "HUBBvsMR_reg_15bb_vs-allin.png"
+          }
+        },
+        {
+          "bb": "14",
+          "variants": {
+            "open": "HUBBvsMR_reg_14bb_open.png",
+            "vs-allin": "HUBBvsMR_reg_14bb_vs-allin.png"
+          }
+        },
+        {
+          "bb": "0-13",
+          "variants": {
+            "open": "HUBBvsMR_reg_0-13bb_open.png"
+          }
+        }
       ]
     },
     {
